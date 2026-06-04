@@ -1,4 +1,4 @@
-# Caderno-Temático no NotebookLM
+# Caderno Temático no NotebookLM
 
 ## 📚 Sobre
 
