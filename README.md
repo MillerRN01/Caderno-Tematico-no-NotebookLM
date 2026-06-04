@@ -1,2 +1,1 @@
-# Caderno-Tematico-no-NotebookLM
-Estudo sobre realidade virtual  para  jogos digitais
+# Estudo sobre realidade virtual  para  jogos digitais
