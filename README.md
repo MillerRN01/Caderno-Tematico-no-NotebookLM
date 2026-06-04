@@ -34,7 +34,7 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes.
 
 - [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html)
 - [Unreal Engine VR Documentation](https://docs.unrealengine.com/)
-- [Best Practices em VR Game Design](link-para-recursos)
+- [Best Practices em VR Game Design](https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com)
 
 ## 🚀 Como Usar
 
