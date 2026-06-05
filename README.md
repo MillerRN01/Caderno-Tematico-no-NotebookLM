@@ -6,21 +6,21 @@
 
 ## 📚 Sobre
 
-Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e otimização.
+Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e otimização de performance.
 
 ## 📋 Índice
 
-- [Conceitos Fundamentais](#conceitos-fundamentais)
-- [Tecnologias VR](#tecnologias-vr)
-- [Desenvolvimento de Jogos VR](#desenvolvimento-de-jogos-vr)
-- [Pré-requisitos](#pré-requisitos)
-- [Início Rápido](#início-rápido)
-- [Recursos de Pesquisas](#recursos-de-pesquisas)
-- [Como Usar](#como-usar)
-- [Recursos Externos](#recursos-externos)
-- [Melhorias Futuras](#melhorias-futuras)
-- [Autor](#autor)
-- [Licença](#licença)
+- [Conceitos Fundamentais](#-conceitos-fundamentais)
+- [Tecnologias VR](#-tecnologias-vr)
+- [Desenvolvimento de Jogos VR](#️-desenvolvimento-de-jogos-vr)
+- [Pré-requisitos](#-pré-requisitos)
+- [Início Rápido](#-início-rápido)
+- [Recursos de Pesquisas](#-recursos-de-pesquisas)
+- [Como Usar](#-como-usar)
+- [Recursos Externos](#-recursos-externos)
+- [Autor](#-autor)
+- [Licença](#-licença)
+- [Melhorias Futuras](#-melhorias-futuras)
 
 ## 🎮 Conceitos Fundamentais
 
@@ -142,17 +142,6 @@ Para seguir os exemplos e tutoriais deste caderno:
    - Abra issues com sugestões
    - Envie pull requests com melhorias
 
-## 👤 Autor
-
-**MillerRN01**
-
-- 🔗 [GitHub](https://github.com/MillerRN01)
-- 🎓 Desafio DIO: Caderno Temático no NotebookLM
-- 📧 Utilização de IA para curadoria inteligente de conhecimento
-- 🎯 Foco em estruturação e reutilização de conhecimento
-
----
-
 ## 📚 Recursos Externos
 
 ### Documentação Oficial
@@ -173,7 +162,14 @@ Para seguir os exemplos e tutoriais deste caderno:
 - [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention)
 - [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf) - SBgames PDF
 
----
+## 👤 Autor
+
+**MillerRN01**
+
+- 🔗 [GitHub](https://github.com/MillerRN01)
+- 🎓 Desafio DIO: Caderno Temático no NotebookLM
+- 📧 Utilização de IA para curadoria inteligente de conhecimento
+- 🎯 Foco em estruturação e reutilização de conhecimento
 
 ## 📝 Licença
 
@@ -188,8 +184,6 @@ Com a condição de:
 - 🏷️ Dar crédito ao autor original (MillerRN01)
 
 Para mais informações, veja: [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
-
----
 
 ## ✨ Melhorias Futuras
 
