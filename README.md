@@ -6,7 +6,7 @@
 
 ## 📚 Sobre
 
-Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e otimização de performance.
+Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e otimização.
 
 ## 📋 Índice
 
@@ -31,7 +31,7 @@ Entender esses conceitos é essencial para desenvolver experiências VR imersiva
 - **Rastreamento de Movimento**: Hand-tracking, head-tracking e body-tracking para capturar movimentos do usuário em tempo real
 - **Renderização Estereoscópica**: Técnicas de rendering de imagens diferentes para cada olho, criando percepção de profundidade
 
-## 🔧 Tecnologias VR
+## 📚 Tecnologias VR
 
 ### Engines de Desenvolvimento
 
@@ -54,9 +54,9 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes:
 
 ### Recursos de Estudos
 
-- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html) - Documentação oficial completa
-- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/) - Guia oficial Unreal
-- [Best Practices em VR Game Design](https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com) - Artigo em português
+- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html){target="_blank"} - Documentação oficial completa
+- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/){target="_blank"} - Guia oficial Unreal
+- [Best Practices em VR Game Design](https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com){target="_blank"} - Artigo em português
 
 ### Tópicos Avançados
 
@@ -105,23 +105,23 @@ Para seguir os exemplos e tutoriais deste caderno:
 
 ### Documentação Oficial
 
-- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html)
-- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/)
-- [Meta Quest Developer Documentation](https://developer.meta.com/quest/)
-- [Godot XR Tools](https://github.com/GodotVR/godot_openxr_vendors)
+- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html){target="_blank"}
+- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/){target="_blank"}
+- [Meta Quest Developer Documentation](https://developer.meta.com/quest/){target="_blank"}
+- [Godot XR Tools](https://github.com/GodotVR/godot_openxr_vendors){target="_blank"}
 
 ### Comunidades e Fóruns
 
-- [r/oculus](https://www.reddit.com/r/oculus/) - Comunidade Meta Quest
-- [r/Vive](https://www.reddit.com/r/Vive/) - Comunidade HTC Vive
-- [XR Development Subreddit](https://www.reddit.com/r/XRDevelopment/) - Discussões técnicas
-- [Unity XR Forum](https://forum.unity.com/forums/xr-discussion.247/) - Fórum oficial Unity
+- [r/oculus](https://www.reddit.com/r/oculus/){target="_blank"} - Comunidade Meta Quest
+- [r/Vive](https://www.reddit.com/r/Vive/){target="_blank"} - Comunidade HTC Vive
+- [XR Development Subreddit](https://www.reddit.com/r/XRDevelopment/){target="_blank"} - Discussões técnicas
+- [Unity XR Forum](https://forum.unity.com/forums/xr-discussion.247/){target="_blank"} - Fórum oficial Unity
 
 ### Artigos e Pesquisas
 
-- [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention)
-- [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf) - SBgames PDF
-- [VR Performance Optimization](https://developer.nvidia.com/vr)
+- [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention){target="_blank"}
+- [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf){target="_blank"} - SBgames PDF
+- [VR Performance Optimization](https://developer.nvidia.com/vr){target="_blank"}
 
 ## 🚀 Como Usar
 
@@ -146,27 +146,27 @@ Para seguir os exemplos e tutoriais deste caderno:
 
 ### Documentação Oficial
 
-- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html)
-- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/)
-- [Meta Quest Developer Documentation](https://developer.meta.com/quest/)
-- [Godot XR Tools](https://github.com/GodotVR/godot_openxr_vendors)
+- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html){target="_blank"}
+- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/){target="_blank"}
+- [Meta Quest Developer Documentation](https://developer.meta.com/quest/){target="_blank"}
+- [Godot XR Tools](https://github.com/GodotVR/godot_openxr_vendors){target="_blank"}
 
 ### Comunidades e Fóruns
 
-- [r/oculus](https://www.reddit.com/r/oculus/) - Comunidade Meta Quest
-- [r/Vive](https://www.reddit.com/r/Vive/) - Comunidade HTC Vive
-- [XR Development Subreddit](https://www.reddit.com/r/XRDevelopment/)
+- [r/oculus](https://www.reddit.com/r/oculus/){target="_blank"} - Comunidade Meta Quest
+- [r/Vive](https://www.reddit.com/r/Vive/){target="_blank"} - Comunidade HTC Vive
+- [XR Development Subreddit](https://www.reddit.com/r/XRDevelopment/){target="_blank"}
 
 ### Artigos Recomendados
 
-- [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention)
-- [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf) - SBgames PDF
+- [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention){target="_blank"}
+- [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf){target="_blank"} - SBgames PDF
 
 ## 👤 Autor
 
 **MillerRN01**
 
-- 🔗 [GitHub](https://github.com/MillerRN01)
+- 🔗 [GitHub](https://github.com/MillerRN01){target="_blank"}
 - 🎓 Desafio DIO: Caderno Temático no NotebookLM
 - 📧 Utilização de IA para curadoria inteligente de conhecimento
 - 🎯 Foco em estruturação e reutilização de conhecimento
@@ -183,7 +183,7 @@ Você é livre para:
 Com a condição de:
 - 🏷️ Dar crédito ao autor original (MillerRN01)
 
-Para mais informações, veja: [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
+Para mais informações, veja: [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode){target="_blank"}
 
 ## ✨ Melhorias Futuras
 
