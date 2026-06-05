@@ -3,9 +3,11 @@
 
 ## 📚 Sobre
 
+
 Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos.
 
 ## 📋 Índice
+
 
 - [Conceitos Fundamentais](#-conceitos-fundamentais)
 - [Tecnologias VR](#-tecnologias-vr)
@@ -16,6 +18,7 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 
 ## 🎮 Conceitos Fundamentais
 
+
 - Imersão e presença
 - Interatividade
 - Rastreamento de movimento
@@ -23,12 +26,14 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 
 ## 🔧 Tecnologias VR
 
+
 - Unity com XR Plugin Management
 - Unreal Engine VR
 - Godot Engine
 - Plataformas: Meta Quest, HTC Vive, Valve Index, PlayStation VR
 
 ## 🕹️ Desenvolvimento de Jogos VR
+
 
 Práticas e técnicas para criar experiências VR imersivas e envolventes.
 
@@ -40,7 +45,9 @@ Recursos de estudos
 
 ## 📚 Recursos de Pesquisas
 
+
 ## 🚀 Como Usar
+
 
 1. Clone este repositório 
 2. Navegue pelos arquivos temáticos
@@ -56,6 +63,7 @@ Recursos de estudos
 ---
 
 ## 📚 Recursos Externos
+
 
 ### Documentação Oficial
 - [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html)
@@ -75,6 +83,7 @@ Recursos de estudos
 ---
 
 ## 📝 Licença
+
 
 Este projeto está licenciado sob a licença **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
