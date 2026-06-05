@@ -1,5 +1,6 @@
 # Caderno Temático no NotebookLM
 
+
 ## 📚 Sobre
 
 Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos.
