@@ -14,7 +14,7 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 
 ## 🎮 Conceitos Fundamentais
 
-- Imersão e presença
+- Imersão e presença 
 - Interatividade
 - Rastreamento de movimento
 - Renderização estereoscópica
@@ -30,28 +30,15 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 
 Práticas e técnicas para criar experiências VR imersivas e envolventes.
 
+
 ## 📚 Recursos
 
 - [Unity XR Documentation](https://unity.com/pt/blog/worldbuilding-xr-free-technical-ebook)
 - [Unreal Engine VR Documentation](https://www.unrealengine.com/xr?lang=pt-BR)
 - [Best Practices em VR Game Design](https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com)
 
-## 🚀 Como Usar
 
-1. Clone este repositório
-2. Navegue pelos arquivos temáticos
-3. Explore os exemplos e estudos de caso
-
-## 👤 Autor
-
-**MillerRN01**
-- 🎓 Desafio DIO: Caderno Temático no NotebookLM
-- 📧 Utilização de IA para curadoria inteligente de conhecimento
-- 🎯 Foco em estruturação e reutilização de conhecimento
-
----
-
-## 📚 Recursos Externos
+  ## 📚 Recursos Externos
 
 ### Documentação Oficial
 - [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html)
@@ -68,7 +55,20 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes.
 - [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention)
 - [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf) - SBgames PDF
 
----
+
+## 🚀 Como Usar
+
+1. Clone este repositório
+2. Navegue pelos arquivos temáticos
+3. Explore os exemplos e estudos de caso
+
+
+## 👤 Autor
+
+**MillerRN01**
+- 🎓 Desafio DIO: Caderno Temático no NotebookLM
+- 📧 Utilização de IA para curadoria inteligente de conhecimento
+- 🎯 Foco em estruturação e reutilização de conhecimento
 
 ## 📝 Licença
 
