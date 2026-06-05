@@ -36,6 +36,8 @@ Recursos de estudos
 - [Unreal Engine VR Documentation](https://www.unrealengine.com/xr?lang=pt-BR)
 - [Best Practices em VR Game Design](https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com)
 
+## 📚 Recursos de Pesquisas
+
 ## 🚀 Como Usar
 
 1. Clone este repositório
