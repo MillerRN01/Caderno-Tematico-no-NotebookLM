@@ -41,7 +41,7 @@ Recursos de estudos
 
 ## 🚀 Como Usar
 
-1. Clone este repositório
+1. Clone este repositório 
 2. Navegue pelos arquivos temáticos
 3. Explore os exemplos e estudos de caso
 
