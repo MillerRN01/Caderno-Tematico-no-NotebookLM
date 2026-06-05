@@ -9,7 +9,7 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 - [Conceitos Fundamentais](#-conceitos-fundamentais)
 - [Tecnologias VR](#-tecnologias-vr)
 - [Desenvolvimento de Jogos VR](#️-desenvolvimento-de-jogos-vr)
-- [Recursos](#-recursos)
+- [Recursos de Pesquisas](#-recursos_pesquisa)
 - [Como Usar](#-como-usar)
 
 ## 🎮 Conceitos Fundamentais
@@ -30,7 +30,7 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 
 Práticas e técnicas para criar experiências VR imersivas e envolventes.
 
-## 📚 Recursos
+Recursos de estudos
 
 - [Unity XR Documentation](https://unity.com/pt/blog/worldbuilding-xr-free-technical-ebook)
 - [Unreal Engine VR Documentation](https://www.unrealengine.com/xr?lang=pt-BR)
