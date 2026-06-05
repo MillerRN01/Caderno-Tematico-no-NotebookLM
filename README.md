@@ -66,7 +66,7 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes.
 
 ### Artigos Recomendados
 - [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention)
-- [Game Design Best Practices for VR](https://gdcvault.com/) - GDC Archive
+- [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf) - SBgames PDF
 
 ---
 
