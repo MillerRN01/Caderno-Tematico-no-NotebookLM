@@ -21,7 +21,7 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 - Rastreamento de movimento
 - Renderização estereoscópica
 
-## 🔧  Tecnologias VR
+## 🔧 Tecnologias VR
 
 - Unity com XR Plugin Management
 - Unreal Engine VR
