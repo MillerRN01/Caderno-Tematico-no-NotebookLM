@@ -44,7 +44,6 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes.
 
 ## 👤 Autor
 
-MillerRN01
 **MillerRN01**
 - 🎓 Desafio DIO: Caderno Temático no NotebookLM
 - 📧 Utilização de IA para curadoria inteligente de conhecimento
