@@ -9,7 +9,7 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem√
 - [Conceitos Fundamentais](#-conceitos-fundamentais)
 - [Tecnologias VR](#-tecnologias-vr)
 - [Desenvolvimento de Jogos VR](#Ô∏è-desenvolvimento-de-jogos-vr)
-- [Recursos de Pesquisas](#-recursos_pesquisa)
+- [Pesquisas de Prompt](#-pesquisa_de_prompt)
 - [Recursos Externos](#-recursos_externos)
 - [Como Usar](#-como-usar)
 
