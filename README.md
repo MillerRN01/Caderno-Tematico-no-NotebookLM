@@ -32,8 +32,8 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes.
 
 ## 📚 Recursos
 
-- [Unity XR Documentation]([https://docs.unity3d.com/Manual/xr.html](https://unity.com/pt/blog/worldbuilding-xr-free-technical-ebook)
-- [Unreal Engine VR Documentation]([https://docs.unrealengine.com/](https://www.unrealengine.com/xr?lang=pt-BR)
+- [Unity XR Documentation](https://unity.com/pt/blog/worldbuilding-xr-free-technical-ebook)
+- [Unreal Engine VR Documentation](https://www.unrealengine.com/xr?lang=pt-BR)
 - [Best Practices em VR Game Design](https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com)
 
 ## 🚀 Como Usar
