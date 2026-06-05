@@ -11,7 +11,7 @@ Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno tem�
 ## 📋 Índice
 
 - [Conceitos Fundamentais](#-conceitos-fundamentais)
-- [🔧 Tecnologias VR](#-tecnologias-vr)
+- [Tecnologias VR](#-tecnologias-vr)
 - [Desenvolvimento de Jogos VR](#-desenvolvimento-de-jogos-vr)
 - [Pré-requisitos](#-pré-requisitos)
 - [Início Rápido](#-início-rápido)
