@@ -6,7 +6,7 @@
 
 ## 📚 Sobre
 
-Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e otimização.
+Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e melhor experiência do usuário.
 
 ## 📋 Índice
 
@@ -54,9 +54,9 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes:
 
 ### Recursos de Estudos
 
-- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html){target="_blank"} - Documentação oficial completa
-- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/){target="_blank"} - Guia oficial Unreal
-- [Best Practices em VR Game Design](https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com){target="_blank"} - Artigo em português
+- <a href="https://docs.unity3d.com/Manual/xr.html" target="_blank">Unity XR Documentation</a> - Documentação oficial completa
+- <a href="https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/" target="_blank">Unreal Engine VR Documentation</a> - Guia oficial Unreal
+- <a href="https://tidomundo.com.br/articles/guia-pratico-de-jogos-aplicado-a-realidade-virtual?utm_source=copilot.com" target="_blank">Best Practices em VR Game Design</a> - Artigo em português
 
 ### Tópicos Avançados
 
@@ -105,23 +105,23 @@ Para seguir os exemplos e tutoriais deste caderno:
 
 ### Documentação Oficial
 
-- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html){target="_blank"}
-- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/){target="_blank"}
-- [Meta Quest Developer Documentation](https://developer.meta.com/quest/){target="_blank"}
-- [Godot XR Tools](https://github.com/GodotVR/godot_openxr_vendors){target="_blank"}
+- <a href="https://docs.unity3d.com/Manual/xr.html" target="_blank">Unity XR Documentation</a>
+- <a href="https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/" target="_blank">Unreal Engine VR Documentation</a>
+- <a href="https://developer.meta.com/quest/" target="_blank">Meta Quest Developer Documentation</a>
+- <a href="https://github.com/GodotVR/godot_openxr_vendors" target="_blank">Godot XR Tools</a>
 
 ### Comunidades e Fóruns
 
-- [r/oculus](https://www.reddit.com/r/oculus/){target="_blank"} - Comunidade Meta Quest
-- [r/Vive](https://www.reddit.com/r/Vive/){target="_blank"} - Comunidade HTC Vive
-- [XR Development Subreddit](https://www.reddit.com/r/XRDevelopment/){target="_blank"} - Discussões técnicas
-- [Unity XR Forum](https://forum.unity.com/forums/xr-discussion.247/){target="_blank"} - Fórum oficial Unity
+- <a href="https://www.reddit.com/r/oculus/" target="_blank">r/oculus</a> - Comunidade Meta Quest
+- <a href="https://www.reddit.com/r/Vive/" target="_blank">r/Vive</a> - Comunidade HTC Vive
+- <a href="https://www.reddit.com/r/XRDevelopment/" target="_blank">XR Development Subreddit</a> - Discussões técnicas
+- <a href="https://forum.unity.com/forums/xr-discussion.247/" target="_blank">Unity XR Forum</a> - Fórum oficial Unity
 
 ### Artigos e Pesquisas
 
-- [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention){target="_blank"}
-- [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf){target="_blank"} - SBgames PDF
-- [VR Performance Optimization](https://developer.nvidia.com/vr){target="_blank"}
+- <a href="https://www.researchgate.net/search?q=vr+motion+sickness+prevention" target="_blank">VR Motion Sickness Research</a>
+- <a href="https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf" target="_blank">Game Design Best Practices for VR</a> - SBgames PDF
+- <a href="https://developer.nvidia.com/vr" target="_blank">VR Performance Optimization</a>
 
 ## 🚀 Como Usar
 
@@ -146,27 +146,27 @@ Para seguir os exemplos e tutoriais deste caderno:
 
 ### Documentação Oficial
 
-- [Unity XR Documentation](https://docs.unity3d.com/Manual/xr.html){target="_blank"}
-- [Unreal Engine VR Documentation](https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/){target="_blank"}
-- [Meta Quest Developer Documentation](https://developer.meta.com/quest/){target="_blank"}
-- [Godot XR Tools](https://github.com/GodotVR/godot_openxr_vendors){target="_blank"}
+- <a href="https://docs.unity3d.com/Manual/xr.html" target="_blank">Unity XR Documentation</a>
+- <a href="https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/" target="_blank">Unreal Engine VR Documentation</a>
+- <a href="https://developer.meta.com/quest/" target="_blank">Meta Quest Developer Documentation</a>
+- <a href="https://github.com/GodotVR/godot_openxr_vendors" target="_blank">Godot XR Tools</a>
 
 ### Comunidades e Fóruns
 
-- [r/oculus](https://www.reddit.com/r/oculus/){target="_blank"} - Comunidade Meta Quest
-- [r/Vive](https://www.reddit.com/r/Vive/){target="_blank"} - Comunidade HTC Vive
-- [XR Development Subreddit](https://www.reddit.com/r/XRDevelopment/){target="_blank"}
+- <a href="https://www.reddit.com/r/oculus/" target="_blank">r/oculus</a> - Comunidade Meta Quest
+- <a href="https://www.reddit.com/r/Vive/" target="_blank">r/Vive</a> - Comunidade HTC Vive
+- <a href="https://www.reddit.com/r/XRDevelopment/" target="_blank">XR Development Subreddit</a>
 
 ### Artigos Recomendados
 
-- [VR Motion Sickness Research](https://www.researchgate.net/search?q=vr+motion+sickness+prevention){target="_blank"}
-- [Game Design Best Practices for VR](https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf){target="_blank"} - SBgames PDF
+- <a href="https://www.researchgate.net/search?q=vr+motion+sickness+prevention" target="_blank">VR Motion Sickness Research</a>
+- <a href="https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf" target="_blank">Game Design Best Practices for VR</a> - SBgames PDF
 
 ## 👤 Autor
 
 **MillerRN01**
 
-- 🔗 [GitHub](https://github.com/MillerRN01){target="_blank"}
+- 🔗 <a href="https://github.com/MillerRN01" target="_blank">GitHub</a>
 - 🎓 Desafio DIO: Caderno Temático no NotebookLM
 - 📧 Utilização de IA para curadoria inteligente de conhecimento
 - 🎯 Foco em estruturação e reutilização de conhecimento
@@ -183,7 +183,7 @@ Você é livre para:
 Com a condição de:
 - 🏷️ Dar crédito ao autor original (MillerRN01)
 
-Para mais informações, veja: [CC BY 4.0 Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode){target="_blank"}
+Para mais informações, veja: <a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY 4.0 Legal Code</a>
 
 ## ✨ Melhorias Futuras
 
