@@ -8,6 +8,9 @@
 
 Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e melhor experiência do usuário.
 
+### Objetivos
+O meu objetivo com esse projeto é entender melhor como funciona a realidade virtual, para poder criar jogos com essa ferramenta, estudando o que pode ser feito e melhorado com o decorrer da criação do jogo.   
+
 ## 📋 Índice
 
 - [Conceitos Fundamentais](#-conceitos-fundamentais)
