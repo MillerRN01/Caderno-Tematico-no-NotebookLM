@@ -22,7 +22,7 @@ O meu objetivo com esse projeto é entender melhor como funciona a realidade vir
 - [Como Usar](#-como-usar)
 - [Autor](#-autor)
 - [Licença](#-licença)
-- [Melhorias Futuras](#-melhorias-futuras)
+- [ Melhorias Futuras](#-melhorias-futuras)
 
 ## 🎮 Conceitos Fundamentais
 
@@ -169,7 +169,7 @@ Com a condição de:
 
 Para mais informações, veja: <a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY 4.0 Legal Code</a>
 
-## ✨ Melhorias Futuras
+## ✨  Melhorias Futuras
 
 - [ ] Adicionar exemplos de código (C# Unity, C++ Unreal)
 - [ ] Criar guias passo-a-passo para cada plataforma
