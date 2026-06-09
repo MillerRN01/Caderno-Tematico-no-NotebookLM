@@ -107,10 +107,10 @@ Para seguir os exemplos e tutoriais deste caderno:
 
 ### Documentação Oficial
 
-- <a href="https://docs.unity3d.com/Manual/xr.html" target="_blank">Unity XR Documentation</a>
-- <a href="https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/" target="_blank">Unreal Engine VR Documentation</a>
-- <a href="https://developer.meta.com/quest/" target="_blank">Meta Quest Developer Documentation</a>
-- <a href="https://github.com/GodotVR/godot_openxr_vendors" target="_blank">Godot XR Tools</a>
+- <a href="https://docs.unity3d.com/6000.4/Documentation/Manual/XR.html" target="_blank">Unity XR Documentation</a>
+- <a href="https://www.unrealengine.com/xr" target="_blank">Unreal Engine VR Documentation</a>
+- <a href="https://developers.meta.com/horizon/develop/" target="_blank">Meta Quest Developer Documentation</a>
+- <a href="https://github.com/GodotVR/godot-xr-tools" target="_blank">Godot XR Tools</a>
 
 ### Comunidades e Fóruns
 
