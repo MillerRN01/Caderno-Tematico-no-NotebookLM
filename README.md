@@ -20,7 +20,6 @@ O meu objetivo com esse projeto é entender melhor como funciona a realidade vir
 - [Início Rápido](#-início-rápido)
 - [Recursos de Pesquisas](#-recursos-de-pesquisas)
 - [Como Usar](#-como-usar)
-- [Recursos Externos](#-recursos-externos)
 - [Autor](#-autor)
 - [Licença](#-licença)
 - [Melhorias Futuras](#-melhorias-futuras)
@@ -145,25 +144,7 @@ Para seguir os exemplos e tutoriais deste caderno:
    - Abra issues com sugestões
    - Envie pull requests com melhorias
 
-## 📚 Recursos Externos
 
-### Documentação Oficial
-
-- <a href="https://docs.unity3d.com/Manual/xr.html" target="_blank">Unity XR Documentation</a>
-- <a href="https://docs.unrealengine.com/5.4/en-US/unreal-engine-xr-overview/" target="_blank">Unreal Engine VR Documentation</a>
-- <a href="https://developer.meta.com/quest/" target="_blank">Meta Quest Developer Documentation</a>
-- <a href="https://github.com/GodotVR/godot_openxr_vendors" target="_blank">Godot XR Tools</a>
-
-### Comunidades e Fóruns
-
-- <a href="https://www.reddit.com/r/oculus/" target="_blank">r/oculus</a> - Comunidade Meta Quest
-- <a href="https://www.reddit.com/r/Vive/" target="_blank">r/Vive</a> - Comunidade HTC Vive
-- <a href="https://www.reddit.com/r/XRDevelopment/" target="_blank">XR Development Subreddit</a>
-
-### Artigos Recomendados
-
-- <a href="https://www.researchgate.net/search?q=vr+motion+sickness+prevention" target="_blank">VR Motion Sickness Research</a>
-- <a href="https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf" target="_blank">Game Design Best Practices for VR</a> - SBgames PDF
 
 ## 👤 Autor
 
