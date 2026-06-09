@@ -59,7 +59,7 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes:
 
 - <a href="https://docs.unity3d.com/6000.2/Documentation/Manual/XR.html" target="_blank">Unity XR Documentation</a> - Documentação oficial completa
 - <a href="https://www.unrealengine.com/xr?lang=pt-BR" target="_blank">Unreal Engine VR Documentation</a> - Guia oficial Unreal
-- <a href="https://www.sbgames.org/sbgames2015/anaispdf/artesedesign-full/146989.pdf"_blank">Best Practices em VR Game Design</a> - Linhas-guia para o design de HUDs em jogos imersivos 
+- <a href="https://www.sbgames.org/sbgames2015/anaispdf/artesedesign-full/146989.pdf" target="_blank">Linhas-guia para o Design</a> - Linhas-guia para o design de HUDs em jogos imersivos 
 
 ### Tópicos Avançados
 
