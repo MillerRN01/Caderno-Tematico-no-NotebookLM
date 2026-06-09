@@ -22,6 +22,7 @@ O meu objetivo com esse projeto é entender melhor como funciona a realidade vir
 - [Recursos de Pesquisas](#recursos-de-pesquisas)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
+- [Engenharia de Prompt usadas](#engenharia_de_prompt_usadas)
 - [Licença](#licença)
 - [Melhorias Futuras](#melhorias-futuras)
 
@@ -153,6 +154,8 @@ Para seguir os exemplos e tutoriais deste caderno:
 - Desafio DIO: Caderno Temático no NotebookLM
 - Utilização de IA para curadoria inteligente de conhecimento
 - Foco em estruturação e reutilização de conhecimento
+
+  ## Engenharia de Prompt Usadas
 
 ## Licença
 
