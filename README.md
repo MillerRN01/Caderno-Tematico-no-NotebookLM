@@ -121,9 +121,9 @@ Para seguir os exemplos e tutoriais deste caderno:
 
 ### Artigos e Pesquisas
 
-- <a href="https://www.researchgate.net/search?q=vr+motion+sickness+prevention" target="_blank">VR Motion Sickness Research</a>
+- <a href="https://virtualspeech.com/blog/motion-sickness-vr" target="_blank">VR Motion Sickness Research</a>
 - <a href="https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf" target="_blank">Game Design Best Practices for VR</a> - SBgames PDF
-- <a href="https://developer.nvidia.com/vr" target="_blank">VR Performance Optimization</a>
+- <a href="https://developer.nvidia.com/topics/ai/xr/vrworks" target="_blank">VR Performance Optimization</a>
 
 ## 🚀 Como Usar
 
