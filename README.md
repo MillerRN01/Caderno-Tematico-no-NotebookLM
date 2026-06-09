@@ -117,7 +117,7 @@ Para seguir os exemplos e tutoriais deste caderno:
 - <a href="https://www.reddit.com/r/oculus/" target="_blank">r/oculus</a> - Comunidade Meta Quest
 - <a href="https://www.reddit.com/r/Vive/" target="_blank">r/Vive</a> - Comunidade HTC Vive
 - <a href="https://www.reddit.com/r/XRDevelopment/" target="_blank">XR Development Subreddit</a> - Discussões técnicas
-- <a href="https://forum.unity.com/forums/xr-discussion.247/" target="_blank">Unity XR Forum</a> - Fórum oficial Unity
+- <a href="https://discussions.unity.com/lists/xr" target="_blank">Unity XR Forum</a> - Fórum oficial Unity
 
 ### Artigos e Pesquisas
 
