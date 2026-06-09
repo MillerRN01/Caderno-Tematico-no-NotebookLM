@@ -4,27 +4,28 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Atualizado](https://img.shields.io/badge/Atualizado-Junho%202026-blue)
 
-##  Sobre
+## Sobre
 
-Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e melhor experiência do usuário.
+Estudo abrangente sobre realidade virtual para jogos digitais. Este caderno temático explora conceitos, tecnologias e aplicações práticas de VR no desenvolvimento de jogos, com foco em imersão, interatividade e experiência do usuário.
 
 ### Objetivos
-O meu objetivo com esse projeto é entender melhor como funciona a realidade virtual, para poder criar jogos com essa ferramenta, estudando o que pode ser feito e melhorado com o decorrer da criação do jogo.   
 
-##  Índice
+O meu objetivo com esse projeto é entender melhor como funciona a realidade virtual, para poder criar jogos com essa ferramenta, estudando o que pode ser feito e melhorado com o decorrer da criação.
 
-- [Conceitos Fundamentais](#-conceitos-fundamentais)
-- [Tecnologias VR](#-tecnologias-vr)
-- [Desenvolvimento de Jogos VR](#-desenvolvimento-de-jogos-vr)
-- [Pré-requisitos](#-pré-requisitos)
-- [Início Rápido](#-início-rápido)
-- [Recursos de Pesquisas](#-recursos-de-pesquisas)
-- [Como Usar](#-como-usar)
-- [Autor](#-autor)
-- [Licença](#-licença)
-- [ Melhorias Futuras](#-melhorias-futuras)
+## Índice
 
-##  Conceitos Fundamentais
+- [Conceitos Fundamentais](#conceitos-fundamentais)
+- [Tecnologias VR](#tecnologias-vr)
+- [Desenvolvimento de Jogos VR](#desenvolvimento-de-jogos-vr)
+- [Pré-requisitos](#pré-requisitos)
+- [Início Rápido](#início-rápido)
+- [Recursos de Pesquisas](#recursos-de-pesquisas)
+- [Como Usar](#como-usar)
+- [Autor](#autor)
+- [Licença](#licença)
+- [Melhorias Futuras](#melhorias-futuras)
+
+## Conceitos Fundamentais
 
 Entender esses conceitos é essencial para desenvolver experiências VR imersivas:
 
@@ -33,7 +34,7 @@ Entender esses conceitos é essencial para desenvolver experiências VR imersiva
 - **Rastreamento de Movimento**: Hand-tracking, head-tracking e body-tracking para capturar movimentos do usuário em tempo real
 - **Renderização Estereoscópica**: Técnicas de rendering de imagens diferentes para cada olho, criando percepção de profundidade
 
-##  Tecnologias VR
+## Tecnologias VR
 
 ### Engines de Desenvolvimento
 
@@ -50,7 +51,7 @@ Entender esses conceitos é essencial para desenvolver experiências VR imersiva
 - **PlayStation VR** - Console VR, grande base de jogadores
 - **Pico** - Competidor Meta Quest
 
-##  Desenvolvimento de Jogos VR
+## Desenvolvimento de Jogos VR
 
 Práticas e técnicas para criar experiências VR imersivas e envolventes:
 
@@ -62,13 +63,13 @@ Práticas e técnicas para criar experiências VR imersivas e envolventes:
 
 ### Tópicos Avançados
 
-- Otimização de performance (fps, draws calls, memory)
+- Otimização de performance (fps, draw calls, memory)
 - Prevenção de motion sickness
 - Design de UI/UX em VR
 - Multiplayer e networking
 - Analytics e telemetria
 
-##  Pré-requisitos
+## Pré-requisitos
 
 Para seguir os exemplos e tutoriais deste caderno:
 
@@ -80,7 +81,7 @@ Para seguir os exemplos e tutoriais deste caderno:
 - **Visual Studio 2022** ou Rider (para C#)
 - **Git** instalado
 
-##  Início Rápido
+## Início Rápido
 
 ### Setup Inicial
 
@@ -103,7 +104,7 @@ Para seguir os exemplos e tutoriais deste caderno:
    - Abra as cenas de exemplo
    - Deploy para seu headset ou emulador
 
-##  Recursos de Pesquisas
+## Recursos de Pesquisas
 
 ### Documentação Oficial
 
@@ -125,7 +126,7 @@ Para seguir os exemplos e tutoriais deste caderno:
 - <a href="https://www.sbgames.org/sbgames2017/papers/Tutoriais/176371.pdf" target="_blank">Game Design Best Practices for VR</a> - SBgames PDF
 - <a href="https://developer.nvidia.com/topics/ai/xr/vrworks" target="_blank">VR Performance Optimization</a>
 
-##  Como Usar
+## Como Usar
 
 1. **Clone este repositório**
    ```bash
@@ -144,32 +145,30 @@ Para seguir os exemplos e tutoriais deste caderno:
    - Abra issues com sugestões
    - Envie pull requests com melhorias
 
-
-
-##  Autor
+## Autor
 
 **MillerRN01**
 
-- 🔗 <a href="https://github.com/MillerRN01" target="_blank">GitHub</a>
-- 🎓 Desafio DIO: Caderno Temático no NotebookLM
-- 📧 Utilização de IA para curadoria inteligente de conhecimento
-- 🎯 Foco em estruturação e reutilização de conhecimento
+- <a href="https://github.com/MillerRN01" target="_blank">GitHub</a>
+- Desafio DIO: Caderno Temático no NotebookLM
+- Utilização de IA para curadoria inteligente de conhecimento
+- Foco em estruturação e reutilização de conhecimento
 
-##  Licença
+## Licença
 
 Este projeto está licenciado sob a licença **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 Você é livre para:
-- ✅ Compartilhar e adaptar este material
-- ✅ Usar para fins comerciais ou educacionais
-- ✅ Criar derivados
+- Compartilhar e adaptar este material
+- Usar para fins comerciais ou educacionais
+- Criar derivados
 
 Com a condição de:
-- 🏷️ Dar crédito ao autor original (MillerRN01)
+- Dar crédito ao autor original (MillerRN01)
 
 Para mais informações, veja: <a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY 4.0 Legal Code</a>
 
-##   Melhorias Futuras
+## Melhorias Futuras
 
 - [ ] Adicionar exemplos de código (C# Unity, C++ Unreal)
 - [ ] Criar guias passo-a-passo para cada plataforma
