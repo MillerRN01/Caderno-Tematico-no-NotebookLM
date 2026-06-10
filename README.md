@@ -15,7 +15,7 @@ O meu objetivo com esse projeto é entender melhor como funciona a realidade vir
 ## Índice
 
 - [Conceitos Fundamentais](#conceitos-fundamentais)
-- [VR e suas Tecnologias](#vr-e-suas-tecnologias)
+- [VR e Suas Ferramentas ](#vr-e-suas-ferramentas)
 - [Desenvolvimento de Jogos VR](#desenvolvimento-de-jogos-vr)
 - [Pré-requisitos](#pré-requisitos)
 - [Início Rápido](#início-rápido)
@@ -36,7 +36,7 @@ Entender esses conceitos é essencial para desenvolver experiências VR imersiva
 - **Rastreamento de Movimento**: Hand-tracking, head-tracking e body-tracking para capturar movimentos do usuário em tempo real
 - **Renderização Estereoscópica**: Técnicas de rendering de imagens diferentes para cada olho, criando percepção de profundidade
 
-## VR e Suas Tecnologias
+## VR e Suas Ferramentas
 
 ### Engines de Desenvolvimento
 
