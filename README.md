@@ -23,6 +23,7 @@ O meu objetivo com esse projeto é entender melhor como funciona a realidade vir
 - [Como Usar](#como-usar)
 - [Autor](#autor)
 - [Engenharias de Prompt usadas](#engenharias-de-prompt-usadas)
+- [Resumo Estruturado](#resumo-estruturado)
 - [Licença](#licença)
 - [Melhorias Futuras](#melhorias-futuras)
 
@@ -362,17 +363,50 @@ Dispositivos de Aroma (Smelling Devices): Embora ainda categorizados como perif�
 .
 3. Processamento e Som Espacial
 A imersão técnica máxima exige um desempenho que evite quebras de presença (breaks in presence):
-Workstation de Alto Desempenho: Para manter uma taxa de quadros estável de no mínimo 90 Hz e latência inferior a 20 ms, é necessário um PC com GPUs de ponta (como as da série nVidia GTX/RTX)
-.
-Som Espacializado 3D: O uso de fones de ouvido de alta qualidade (como modelos da Sennheiser citados em estudos) é essencial para sustentar a "Ilusão de Lugar" (PI), fazendo o som emanar de locais específicos no espaço virtual
-.
-Contexto de Mercado e Custos Indiretos
+Workstation de Alto Desempenho: Para manter uma taxa de quadros estável de no mínimo 90 Hz e latência inferior a 20 ms, é necessário um PC com GPUs de ponta (como as da série nVidia GTX/RTX).
+   Som Espacializado 3D: O uso de fones de ouvido de alta qualidade (como modelos da Sennheiser citados em estudos) é essencial para sustentar a "Ilusão de Lugar" (PI), fazendo o som emanar de locais específicos no espaço virtual.   
+   Contexto de Mercado e Custos Indiretos
 Embora os preços individuais não constem nos textos, as fontes fornecem indicadores da magnitude desse investimento:
-O mercado global de hardware de RV foi avaliado em aproximadamente USD 20,83 bilhões em 2025
-.
-A adoção de headsets autônomos (standalone), como o Meta Quest 2 e 3, é descrita como uma alternativa mais "acessível" por não exigir um PC caro, sugerindo que um setup de imersão máxima (que exige o PC e periféricos extras) se posiciona em um patamar de custo significativamente superior
-.
-Para fins de comparação de escala, um relatório de mercado detalhado sobre o setor custa cerca de USD 4.490,00.</details>
+O mercado global de hardware de RV foi avaliado em aproximadamente USD 20,83 bilhões em 2025.   
+   A adoção de headsets autônomos (standalone), como o Meta Quest 2 e 3, é descrita como uma alternativa mais "acessível" por não exigir um PC caro, sugerindo que um setup de imersão máxima (que exige o PC e periféricos extras) se posiciona em um patamar de custo significativamente superior.   
+   Para fins de comparação de escala, um relatório de mercado detalhado sobre o setor custa cerca de USD 4.490,00.</details>
+
+## Resumo Estruturado
+
+<details>
+   <summary>Resumo</summary>
+   A realidade virtual (RV) nos jogos digitais é uma tecnologia imersiva que permite aos jogadores interagir com ambientes tridimensionais gerados por computador, criando um profundo senso de presença.
+ O objetivo é oferecer uma experiência que transcenda a jogabilidade tradicional, permitindo explorações vastas e interações realistas.
+ Abaixo está um resumo estruturado com os principais eixos do assunto:
+1. Fundamentos Teóricos: Imersão e Presença
+   A eficácia da RV baseia-se na distinção entre dois conceitos fundamentais:
+Imersão (Aspecto Técnico): Refere-se às capacidades objetivas do hardware para isolar o usuário do mundo físico.
+ É determinada pela inclusividade (exclusão de estímulos reais), extensividade (número de sentidos atendidos), panorama (campo de visão 360º) e vivacidade (resolução e fluidez).
+   Presença (Aspecto Psicológico): É a resposta subjetiva de "estar lá".
+ Mel Slater a decompõe em duas ilusões: a Ilusão de Lugar (PI), que é a sensação de estar no local virtual, e a Ilusão de Plausibilidade (Psi), a crença de que os eventos virtuais estão realmente acontecendo.
+
+2. Engenharia de Interação e Experiência do Usuário (UX)
+   O design de RV exige o abandono de interfaces 2D (telas planas) em favor de Interfaces de Usuário 3D (3D UIs).
+
+   Interações Naturais e Mágicas: Designers podem usar ações que imitam a física real ou técnicas "mágicas", como o teletransporte, para navegar em espaços maiores que o cômodo físico.
+   Movimento Instruído (Instructed Motion): Prática onde o jogo exige movimentos corporais específicos para progredir, como em Beat Saber, sincronizando o esforço físico com a satisfação intrínseca (flow).
+   Caminhada Redirecionada (RDW): Técnica que rotaciona o mundo virtual de forma imperceptível, fazendo o jogador caminhar em círculos no mundo real enquanto percebe uma linha reta no jogo.
+
+3. O Efeito Proteu e Identidade
+   A representação do jogador através de avatares influencia seu comportamento real, fenômeno conhecido como Efeito Proteu.
+   Usuários com avatares mais altos tendem a negociar de forma mais agressiva e assertiva.
+   O design do avatar pode ser usado para incentivar o esforço físico em jogos de fitness ou reduzir preconceitos implícitos através da personificação de diferentes identidades.
+
+4. Desafios Técnicos, Fisiológicos e de Saúde
+   A RV impõe exigências biológicas rigorosas para manter o conforto do usuário:
+   Cinetose Virtual (Cybersickness): Náusea e desorientação causadas pelo conflito sensorial entre o movimento visual detectado pelos olhos e a imobilidade física sentida pelo sistema vestibular.
+   Requisitos de Desempenho: Para evitar desconforto, os jogos devem manter uma taxa de quadros estável (mínimo de 90 Hz) e uma latência de movimento para fóton inferior a 20 ms.
+   Conflito de Convergência-Acomodação (VAC): Fadiga ocular causada pelo foco em uma tela física próxima enquanto os olhos convergem para objetos virtuais distantes.
+
+6. Desenvolvimento e Mercado
+   Ferramentas: O desenvolvimento é dominado pelos motores Unity (flexível e popular para dispositivos móveis) e Unreal Engine (focado em alta fidelidade gráfica).
+ O padrão OpenXR é essencial para garantir a portabilidade entre diferentes hardwares.
+Crescimento: O mercado global de RV em jogos foi avaliado em USD 24,33 bilhões em 2025, com projeção de atingir USD 93,82 bilhões até 2030, impulsionado pela adoção de dispositivos autônomos (standalone) e avanços em realidade mista.</details>
 
 ## Licença
 
