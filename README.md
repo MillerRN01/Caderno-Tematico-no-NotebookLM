@@ -25,7 +25,7 @@ O meu objetivo com esse projeto é entender melhor como funciona a realidade vir
 - [Engenharias de Prompt usadas](#engenharias-de-prompt-usadas)
 - [Resumo Estruturado](#resumo-estruturado)
 - [Licença](#licença)
-- [Ajustes Futuros](#ajuste-futuros)
+- [Ajustes Futuros](#ajustes-futuros)
 
 ## Conceitos Fundamentais
 
