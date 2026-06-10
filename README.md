@@ -158,8 +158,8 @@ Para seguir os exemplos e tutoriais deste caderno:
 
 ## Engenharias de Prompt Usadas
 <details>
-   **Qualidades e defeitos do VR**
-   <summary>Resposta</summary>
+   
+   <summary>**Qualidades e defeitos do VR**</summary>
       A realidade virtual (RV) aplicada aos jogos oferece uma mudança de paradigma na forma como os usuários interagem com o conteúdo digital, trazendo qualidades imersivas únicas, mas também enfrentando limitações físicas e biológicas significativas. Abaixo estão as principais qualidades e limitações categorizadas por aspectos técnicos, psicológicos e de experiência do usuário (UX):
 Aspectos Técnicos
 Qualidades:
