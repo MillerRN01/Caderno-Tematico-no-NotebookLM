@@ -160,9 +160,9 @@ Para seguir os exemplos e tutoriais deste caderno:
 <details>
    
    <summary>Liste as principais qualidades e limitações da realidade virtual em jogos, destacando aspectos técnicos, psicológicos e de experiência do usuário.</summary>
-   
-      A realidade virtual (RV) aplicada aos jogos oferece uma mudança de paradigma na forma como os usuários interagem com o conteúdo digital, trazendo qualidades imersivas únicas, mas também enfrentando limitações físicas e biológicas significativas. Abaixo estão as principais qualidades e limitações categorizadas por aspectos técnicos, psicológicos e de experiência do usuário (UX):
+   A realidade virtual (RV) aplicada aos jogos oferece uma mudança de paradigma na forma como os usuários interagem com o conteúdo digital, trazendo qualidades imersivas únicas, mas também enfrentando limitações físicas e biológicas significativas. Abaixo estão as principais qualidades e limitações categorizadas por aspectos técnicos, psicológicos e de experiência do usuário (UX):
 Aspectos Técnicos
+
 Qualidades:
 Imersão Objetiva: A RV é definida tecnicamente pela sua capacidade de isolar estímulos do mundo físico (inclusividade), oferecer uma perspectiva panorâmica (surround) e exibir imagens em alta resolução (vivacidade)
 .
@@ -178,6 +178,7 @@ Conflito de Convergência Acomodação (VAC): O cérebro é forçado a focar na 
 Custo e Complexidade de Otimização: O desenvolvimento exige técnicas complexas de renderização foveada e gerenciamento rigoroso de chamadas de desenho (draw calls) para rodar em chipsets móveis limitados
 .
 Aspectos Psicológicos
+
 Qualidades:
 Senso de Presença: É a sensação subjetiva de "estar lá" no ambiente virtual
 . Isso é decomposto em Ilusão de Lugar (PI) (sentir-se situado no espaço) e Ilusão de Plausibilidade (Psi) (acreditar que os eventos virtuais estão realmente acontecendo)
@@ -194,6 +195,7 @@ Isolamento Social: Embora a realidade mista com passthrough e a copresença tent
 Estresse e Fadiga Cognitiva: Ambientes hiper-realistas negativos ou situações estressantes podem causar respostas fisiológicas reais de ansiedade e até "pesadelos" experienciais
 .
 Aspectos de Experiência do Usuário (UX)
+
 Qualidades:
 Interação Natural e Intuitiva: A RV permite interações baseadas em comportamentos do mundo real, como agarrar, soltar ou manipular objetos fisicamente com as mãos
 .
