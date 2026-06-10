@@ -25,7 +25,7 @@ O meu objetivo com esse projeto é entender melhor como funciona a realidade vir
 - [Engenharias de Prompt usadas](#engenharias-de-prompt-usadas)
 - [Resumo Estruturado](#resumo-estruturado)
 - [Licença](#licença)
-- [Melhorias Futuras](#melhorias-futuras)
+- [Melhorias](#melhorias)
 
 ## Conceitos Fundamentais
 
@@ -472,7 +472,7 @@ Com a condição de:
 
 Para mais informações, veja: <a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY 4.0 Legal Code</a>
 
-## Melhorias Futuras
+## Melhorias
 
 - [ ] Adicionar exemplos de código (C# Unity, C++ Unreal)
 - [ ] Criar guias passo-a-passo para cada plataforma
