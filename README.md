@@ -206,8 +206,7 @@ Fadiga Física ("Ombro de Gorila"): Interações prolongadas no espaço 3D, espe
 .
 Restrições de Espaço Físico: A necessidade de uma área de rastreamento segura limita a locomoção natural, exigindo soluções de software como teletransporte ou Caminhada Redirecionada (RDW) para simular espaços maiores que o cômodo real
 .
-Desafios de Interface (UI): Interfaces adaptadas de 2D para 3D costumam ser ineficientes. Menus fixos à visão do usuário são desconfortáveis, exigindo o design de interfaces diegéticas integradas ao mundo do jogo.
-</details>
+Desafios de Interface (UI): Interfaces adaptadas de 2D para 3D costumam ser ineficientes. Menus fixos à visão do usuário são desconfortáveis, exigindo o design de interfaces diegéticas integradas ao mundo do jogo.</details>
 
 <details>
    <summary>Explique os fundamentos essenciais da realidade virtual aplicada a jogos, incluindo conceitos de imersão, interação, presença e feedback sensorial.</summary>
@@ -252,9 +251,7 @@ Som Especializado 3D: Essencial para a navegação e para a ilusão de lugar; o 
 Feedback Háptico e Pseudo-háptico: A vibração nos controles oferece uma resposta tátil a interações
 . Além disso, técnicas de pseudo-háptica podem simular sensações como "rigidez" ou "peso" através de deformações visuais no avatar quando ele toca objetos virtuais
 .
-A integração desses fundamentos permite que os jogadores experimentem fenômenos como o Efeito Proteu, onde a aparência do seu avatar virtual pode alterar seu comportamento real, aumentando a agressividade em negociações se o avatar for mais alto ou o esforço físico se o avatar parecer atlético.
-
-</details>
+A integração desses fundamentos permite que os jogadores experimentem fenômenos como o Efeito Proteu, onde a aparência do seu avatar virtual pode alterar seu comportamento real, aumentando a agressividade em negociações se o avatar for mais alto ou o esforço físico se o avatar parecer atlético.</details>
 
 
 
